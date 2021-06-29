@@ -1,4 +1,9 @@
 # TowersGame
+## Descrição
+No momento, desenvolvi, somente, a lógica do jogo. De modo que entramos com todas as escolhas dos players e o sistema devolve o vencedor. No futuro, planejo fazer uma interface dinâmica que possibilite jogarmos em tempo real.
+
+## Observação
+Qualquer mudança na ordem das etapas resultará no não funcionamento do programa. Por exemplo, colocar primeiro a sequência de números e depois a sequência de iniciais da cor escolhida. Enfim, é só alterar o arquivo com o nome "arquivoEntrada" seguindo o que já está lá.
 
 -É possível que um modelo de arquivo de entrada alternativo ao que montei não seja compatível, por isso, caso não seja, siga este modelo:
 
@@ -40,6 +45,3 @@ VVPVVVVVPVVVV\
 4\
 AAAAAPAAAAAPA\
 6465635361452
-
-## Observação
-Qualquer mudança na ordem das etapas resultará no não funcionamento do programa. Por exemplo, colocar primeiro a sequência de números e depois a sequência de inicias da cor escolhida. Enfim, é só alterar o arquivo com o nome "arquivoEntrada" seguindo o que já está lá.
