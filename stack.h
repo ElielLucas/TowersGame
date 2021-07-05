@@ -19,7 +19,7 @@ class Stack : public Node<Type>
 
             Type top(){if(Top)return Top->D;}
 
-            Type pop()      ;
+            Type pop();
 };
 
 template <class Type>
