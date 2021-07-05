@@ -33,15 +33,18 @@ Qualquer mudança na ordem das etapas resultará no não funcionamento do progra
 
 ## Exemplo:
 
-3\
-RRRRRPRRRRRRP       
-6325651653162        
-1	                   
-BPBBBBBBBPBBB\
-4526531546513\
+1\
+RRRRRPRRRRRRP\
+6655651653662\
 2\
-VVPVVVVVPVVVV\
-3615654636415\
+BPBBBBBBBPBBB\
+6526531566516\
+3\
+VVVVVVVPVVVVP\
+3655655636515\
 4\
-AAAAAPAAAAAPA\
-6465635361452
+APAAAAAAAAAPA\
+6665665661556
+
+<h3>Resultado</h3>
+<img src="/imagens/resultado.png" width="400" height="600"/>
